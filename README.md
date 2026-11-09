@@ -13,3 +13,7 @@ To publish, select Settings → Pages → Deploy from a branch → main → /(ro
 To update the published snapshot, replace index.html and current-scores.csv with a newly verified extract. Never commit passwords, session cookies or API keys.
 
 Sources: https://rouh.aiesec.org.eg/mc/b2c-mkt/ and the provided 3.2 B2C - LCs Planning historical tab. Full scoring rules and source details are available in the dashboard.
+
+## LC eligibility
+
+Only 6th October University, AAST-Cairo, Ain Shams University, Alexandria, Cairo University, MIU, MUST, Menofia and Tanta receive award points. GUC, Mansoura, Suez, New Capital, Helwan, AAST-Alexandria, Galala, AUC and Zagazig receive zero and are excluded from all scoring benchmarks. Their source records remain intact.
